@@ -10,6 +10,7 @@
 *.txt
 *.odt
 
+.DS_Store
 
 /code/01_EinordnungCsharp/VS_Example/
 /code/01_EinordnungCsharp/gtkExample/
